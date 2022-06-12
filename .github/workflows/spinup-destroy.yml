@@ -13,7 +13,7 @@ env:
   #################################################
   #################################################
   ### REPLACE USERNAME WITH GH USERNAME         ###
-  zhangchl168-ttt-app: zhangchl168-ttt-app
+  AZURE_WEBAPP_NAME: zhangchl168-ttt-app
   #################################################
 
 jobs:
